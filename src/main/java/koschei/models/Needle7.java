@@ -1,6 +1,9 @@
 package koschei.models;
 
-public class Needle7 {
+import org.springframework.stereotype.Component;
+
+@Component
+public class Needle7 extends Deth8 {
 
     @Override
     public String toString() {
